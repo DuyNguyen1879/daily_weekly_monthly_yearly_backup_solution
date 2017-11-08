@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script to move and rename backup to weekly backup directory.
+#Script to copy and rename backup to weekly backup directory.
 
 
 cd /backup
